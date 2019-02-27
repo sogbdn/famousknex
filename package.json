@@ -1,0 +1,15 @@
+{
+  "name": "famousknex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "add_person_knex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^0.16.3",
+    "sqlite3": "^4.0.6"
+  }
+}
